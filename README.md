@@ -69,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SirraShravan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SirraShravan/Leetcode/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SirraShravan/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
