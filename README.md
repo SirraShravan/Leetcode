@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0607-sales-person](https://github.com/SirraShravan/Leetcode/tree/master/0607-sales-person) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SirraShravan/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/SirraShravan/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
