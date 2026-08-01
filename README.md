@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SirraShravan/Leetcode/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SirraShravan/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SirraShravan/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SirraShravan/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SirraShravan/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/SirraShravan/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SirraShravan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SirraShravan/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
