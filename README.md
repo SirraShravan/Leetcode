@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SirraShravan/Leetcode/tree/master/0136-single-number) |
+| [1009-complement-of-base-10-integer](https://github.com/SirraShravan/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
