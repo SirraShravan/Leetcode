@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SirraShravan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SirraShravan/Leetcode/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/SirraShravan/Leetcode/tree/master/0682-baseball-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SirraShravan/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SirraShravan/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SirraShravan/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SirraShravan/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/SirraShravan/Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/SirraShravan/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
