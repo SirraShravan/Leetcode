@@ -13,9 +13,7 @@ class Solution {
             sum+=((prices[a--]*(100-discounts[b--]))/100.0);
 
         }
-        if(small){
-            return sum;
-        }
+       
         while(a>=0){
             sum+=prices[a--];
         }
