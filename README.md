@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SirraShravan/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SirraShravan/Leetcode/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/SirraShravan/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/SirraShravan/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SirraShravan/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SirraShravan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SirraShravan/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/SirraShravan/Leetcode/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/SirraShravan/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/SirraShravan/Leetcode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
