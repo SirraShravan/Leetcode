@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SirraShravan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SirraShravan/Leetcode/tree/master/0136-single-number) |
+| [0560-subarray-sum-equals-k](https://github.com/SirraShravan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SirraShravan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SirraShravan/Leetcode/tree/master/0682-baseball-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SirraShravan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/SirraShravan/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/SirraShravan/Leetcode/tree/master/2540-minimum-common-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SirraShravan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SirraShravan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SirraShravan/Leetcode/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SirraShravan/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SirraShravan/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
