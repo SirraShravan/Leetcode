@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SirraShravan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SirraShravan/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SirraShravan/Leetcode/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SirraShravan/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SirraShravan/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SirraShravan/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SirraShravan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SirraShravan/Leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/SirraShravan/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/SirraShravan/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SirraShravan/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SirraShravan/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SirraShravan/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SirraShravan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
