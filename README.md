@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SirraShravan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SirraShravan/Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SirraShravan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/SirraShravan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/SirraShravan/Leetcode/tree/master/0525-contiguous-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SirraShravan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/SirraShravan/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/SirraShravan/Leetcode/tree/master/0367-valid-perfect-square) |
