@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SirraShravan/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SirraShravan/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SirraShravan/Leetcode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SirraShravan/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SirraShravan/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SirraShravan/Leetcode/tree/master/0075-sort-colors) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SirraShravan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/SirraShravan/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/SirraShravan/Leetcode/tree/master/0367-valid-perfect-square) |
