@@ -9,7 +9,7 @@ class Solution {
       }
        }
        if(pivot==-1){
-       Arrays.sort(nums);
+        reverse(nums,0,n);
         return ;
        }
        for(int i=n-1;i>pivot;i--){
@@ -29,6 +29,16 @@ class Solution {
             j--;
        }
 
+    }
+    private void reverse(int[] nums,int s,int n){
+        int i=s,j=n-1;
+        while(i<=j){
+            int temp=nums[i];
+            nums[i]=nums[j];
+            nums[j]=temp;
+            i++;
+            j--;
+        }
     }
 
 }
