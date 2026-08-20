@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/SirraShravan/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SirraShravan/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SirraShravan/Leetcode/tree/master/0066-plus-one) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SirraShravan/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/SirraShravan/Leetcode/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/SirraShravan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SirraShravan/Leetcode/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
