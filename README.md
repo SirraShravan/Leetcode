@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SirraShravan/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SirraShravan/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SirraShravan/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1927-sum-game](https://github.com/SirraShravan/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SirraShravan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SirraShravan/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SirraShravan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SirraShravan/Leetcode/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SirraShravan/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/SirraShravan/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SirraShravan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SirraShravan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SirraShravan/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SirraShravan/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1927-sum-game](https://github.com/SirraShravan/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SirraShravan/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/SirraShravan/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SirraShravan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/SirraShravan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SirraShravan/Leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/SirraShravan/Leetcode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
