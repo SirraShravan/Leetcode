@@ -15,8 +15,7 @@ class Solution {
         }
         left++;
        }
-       int len=i-left+1;
-max=Math.max(max,len);
+max=Math.max(max,i-left+1);
        }
 
 return max;
