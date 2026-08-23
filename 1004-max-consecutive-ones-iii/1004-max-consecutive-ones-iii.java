@@ -15,7 +15,9 @@ class Solution {
         }
         left++;
        }
-max=Math.max(max,i-left+1);
+      if(i-left+1>max){
+        max=i-left+1;
+      }
        }
 
 return max;
