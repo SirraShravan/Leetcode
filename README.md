@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SirraShravan/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/SirraShravan/Leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/SirraShravan/Leetcode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
@@ -331,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SirraShravan/Leetcode/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SirraShravan/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
