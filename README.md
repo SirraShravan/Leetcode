@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SirraShravan/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0504-base-7](https://github.com/SirraShravan/Leetcode/tree/master/0504-base-7) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SirraShravan/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SirraShravan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0387-first-unique-character-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/SirraShravan/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SirraShravan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/SirraShravan/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SirraShravan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SirraShravan/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SirraShravan/Leetcode/tree/master/0904-fruit-into-baskets) |
