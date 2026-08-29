@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SirraShravan/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SirraShravan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0228-summary-ranges](https://github.com/SirraShravan/Leetcode/tree/master/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/SirraShravan/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SirraShravan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/SirraShravan/Leetcode/tree/master/0525-contiguous-array) |
