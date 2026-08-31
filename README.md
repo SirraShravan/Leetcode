@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SirraShravan/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SirraShravan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SirraShravan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/SirraShravan/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SirraShravan/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2270-number-of-ways-to-split-array](https://github.com/SirraShravan/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SirraShravan/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
