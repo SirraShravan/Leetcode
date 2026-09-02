@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/SirraShravan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SirraShravan/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SirraShravan/Leetcode/tree/master/0016-3sum-closest) |
@@ -72,8 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SirraShravan/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SirraShravan/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/SirraShravan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SirraShravan/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SirraShravan/Leetcode/tree/master/0016-3sum-closest) |
@@ -91,8 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/SirraShravan/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/SirraShravan/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/SirraShravan/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SirraShravan/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SirraShravan/Leetcode/tree/master/0018-4sum) |
@@ -108,8 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SirraShravan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/SirraShravan/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0136-single-number](https://github.com/SirraShravan/Leetcode/tree/master/0136-single-number) |
 | [1009-complement-of-base-10-integer](https://github.com/SirraShravan/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SirraShravan/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
@@ -117,8 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SirraShravan/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SirraShravan/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/SirraShravan/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SirraShravan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SirraShravan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,8 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SirraShravan/Leetcode/tree/master/0877-stone-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SirraShravan/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/SirraShravan/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SirraShravan/Leetcode/tree/master/0050-powx-n) |
@@ -151,18 +151,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SirraShravan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SirraShravan/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SirraShravan/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/SirraShravan/Leetcode/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/SirraShravan/Leetcode/tree/master/0053-maximum-subarray) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/SirraShravan/Leetcode/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SirraShravan/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -170,18 +170,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SirraShravan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SirraShravan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0607-sales-person](https://github.com/SirraShravan/Leetcode/tree/master/0607-sales-person) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SirraShravan/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/SirraShravan/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SirraShravan/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/SirraShravan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SirraShravan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SirraShravan/Leetcode/tree/master/0344-reverse-string) |
@@ -205,8 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SirraShravan/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SirraShravan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SirraShravan/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -214,8 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SirraShravan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SirraShravan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SirraShravan/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -228,12 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SirraShravan/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2540-minimum-common-value](https://github.com/SirraShravan/Leetcode/tree/master/2540-minimum-common-value) |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0278-first-bad-version](https://github.com/SirraShravan/Leetcode/tree/master/0278-first-bad-version) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0073-set-matrix-zeroes](https://github.com/SirraShravan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0387-first-unique-character-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -255,51 +255,51 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/SirraShravan/Leetcode/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SirraShravan/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/SirraShravan/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SirraShravan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SirraShravan/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SirraShravan/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/SirraShravan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SirraShravan/Leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/SirraShravan/Leetcode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0682-baseball-game](https://github.com/SirraShravan/Leetcode/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SirraShravan/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SirraShravan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SirraShravan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Euclidean Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SirraShravan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SirraShravan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1291-sequential-digits](https://github.com/SirraShravan/Leetcode/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SirraShravan/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SirraShravan/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SirraShravan/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SirraShravan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SirraShravan/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -315,8 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SirraShravan/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SirraShravan/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0525-contiguous-array](https://github.com/SirraShravan/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SirraShravan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SirraShravan/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -331,47 +331,47 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/SirraShravan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/SirraShravan/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/SirraShravan/Leetcode/tree/master/0070-climbing-stairs) |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/SirraShravan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SirraShravan/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/SirraShravan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SirraShravan/Leetcode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/SirraShravan/Leetcode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/SirraShravan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SirraShravan/Leetcode/tree/master/0877-stone-game) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0002-add-two-numbers) |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/SirraShravan/Leetcode/tree/master/0020-valid-parentheses) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/SirraShravan/Leetcode/tree/master/0155-min-stack) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SirraShravan/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SirraShravan/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
