@@ -12,15 +12,7 @@ class Solution {
         }else if(ch=='#'){
             result.append(result);
         }else if(ch=='%'){
-            int k=result.length();
-            int left=0,right=k-1;
-            while(left<=right){
-                char temp=result.charAt(left);
-                result.setCharAt(left,result.charAt(right));
-                result.setCharAt(right,temp);
-                left++;
-                right--;
-            }
+            result.reverse();
         }else{
             result.append(ch);
         }
