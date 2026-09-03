@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/SirraShravan/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/SirraShravan/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/SirraShravan/Leetcode/tree/master/2540-minimum-common-value) |
+| [2740-find-the-value-of-the-partition](https://github.com/SirraShravan/Leetcode/tree/main/2740-find-the-value-of-the-partition/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SirraShravan/Leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SirraShravan/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SirraShravan/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SirraShravan/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SirraShravan/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2465-number-of-distinct-averages](https://github.com/SirraShravan/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2740-find-the-value-of-the-partition](https://github.com/SirraShravan/Leetcode/tree/main/2740-find-the-value-of-the-partition/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SirraShravan/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SirraShravan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SirraShravan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
