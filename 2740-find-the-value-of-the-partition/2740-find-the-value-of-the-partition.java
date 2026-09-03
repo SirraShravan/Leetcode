@@ -4,11 +4,7 @@ class Solution {
         int n=nums.length;
         int min=Integer.MAX_VALUE;
         for(int i=0;i<n-1;i++){
-            int j=i+1;
-            int diff=Math.abs(nums[i]-nums[j]);
-            if(diff<min){
-                min=diff;
-            }
+          min=Math.min(min,Math.abs(nums[i]-nums[i+1]));
         }
         return min;
     }
