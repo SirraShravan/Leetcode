@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SirraShravan/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/SirraShravan/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/SirraShravan/Leetcode/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/SirraShravan/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Bracket Sequences
 |  |
