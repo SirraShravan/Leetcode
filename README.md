@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SirraShravan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SirraShravan/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SirraShravan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/SirraShravan/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SirraShravan/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SirraShravan/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/SirraShravan/Leetcode/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SirraShravan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SirraShravan/Leetcode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/SirraShravan/Leetcode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SirraShravan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/SirraShravan/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SirraShravan/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
