@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SirraShravan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SirraShravan/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SirraShravan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SirraShravan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SirraShravan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/SirraShravan/Leetcode/tree/master/0344-reverse-string) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SirraShravan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/SirraShravan/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SirraShravan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SirraShravan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SirraShravan/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SirraShravan/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SirraShravan/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SirraShravan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SirraShravan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SirraShravan/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
