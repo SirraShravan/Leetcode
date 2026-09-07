@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SirraShravan/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2465-number-of-distinct-averages](https://github.com/SirraShravan/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/SirraShravan/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
