@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SirraShravan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SirraShravan/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [1046-last-stone-weight](https://github.com/SirraShravan/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SirraShravan/Leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SirraShravan/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SirraShravan/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SirraShravan/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/SirraShravan/Leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/SirraShravan/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SirraShravan/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 | Problem Name | Difficulty |
