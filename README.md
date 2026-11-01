@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SirraShravan/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/SirraShravan/Leetcode/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SirraShravan/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/SirraShravan/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SirraShravan/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/SirraShravan/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SirraShravan/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SirraShravan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/SirraShravan/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/SirraShravan/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Counting Sort
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SirraShravan/Leetcode/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SirraShravan/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/SirraShravan/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/SirraShravan/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Monotonic Stack
 |  |
 | ------- |
