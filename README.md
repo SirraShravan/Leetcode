@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SirraShravan/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SirraShravan/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SirraShravan/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SirraShravan/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/SirraShravan/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SirraShravan/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SirraShravan/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SirraShravan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SirraShravan/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SirraShravan/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SirraShravan/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SirraShravan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1054-distant-barcodes](https://github.com/SirraShravan/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SirraShravan/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SirraShravan/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SirraShravan/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SirraShravan/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/SirraShravan/Leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SirraShravan/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SirraShravan/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SirraShravan/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SirraShravan/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SirraShravan/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SirraShravan/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
