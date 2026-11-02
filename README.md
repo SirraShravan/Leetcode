@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SirraShravan/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SirraShravan/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SirraShravan/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/SirraShravan/Leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SirraShravan/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SirraShravan/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SirraShravan/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SirraShravan/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SirraShravan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SirraShravan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/SirraShravan/Leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 ## Database
 |  |
 | ------- |
