@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SirraShravan/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SirraShravan/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SirraShravan/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SirraShravan/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/SirraShravan/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SirraShravan/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SirraShravan/Leetcode/tree/master/0912-sort-an-array) |
 | [1054-distant-barcodes](https://github.com/SirraShravan/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SirraShravan/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SirraShravan/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SirraShravan/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/SirraShravan/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SirraShravan/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SirraShravan/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SirraShravan/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SirraShravan/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SirraShravan/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SirraShravan/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SirraShravan/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
