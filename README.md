@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SirraShravan/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SirraShravan/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SirraShravan/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SirraShravan/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SirraShravan/Leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SirraShravan/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SirraShravan/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SirraShravan/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2409-count-days-spent-together](https://github.com/SirraShravan/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SirraShravan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SirraShravan/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SirraShravan/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SirraShravan/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SirraShravan/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
