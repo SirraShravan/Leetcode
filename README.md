@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SirraShravan/Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/SirraShravan/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/SirraShravan/Leetcode/tree/master/2540-minimum-common-value) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SirraShravan/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/SirraShravan/Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SirraShravan/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SirraShravan/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SirraShravan/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SirraShravan/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SirraShravan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SirraShravan/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SirraShravan/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/SirraShravan/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/SirraShravan/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SirraShravan/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SirraShravan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/SirraShravan/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SirraShravan/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SirraShravan/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Counting Sort
 | Problem Name | Difficulty |
